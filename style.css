@@ -1,0 +1,98 @@
+@media only screen and (min-width: 1290px) {}
+
+.pup1 {
+  background-image: url("assets/back-pup.png");
+  background-size: cover;
+  height: 25em;
+  width: 34em;
+}
+
+.icons {
+  width: 40px;
+}
+
+.bttn-dark {
+  border-radius: 30px;
+  height: 34px;
+}
+
+.tp {
+  font-size: 10px;
+}
+
+.act-b {
+  font-size: 15px;
+  padding: 18px 34px;
+  border-radius: 80px;
+}
+
+.arrow {
+  padding: 17px;
+  height: 60px;
+}
+
+.milky {
+  background-color: #F2F2EE;
+  padding: 130px;
+  width: 48%;
+  border-radius: 35px;
+}
+
+.bold-spara {
+  font-size: small;
+}
+
+.sspara {
+  font-size: xx-small;
+}
+
+.back3 {
+  background-image: url("assets/Rectangle 4638.png");
+  height: 40em;
+  width: 80em;
+  background-size: cover;
+  position: relative;
+}
+
+li {
+  margin: 20px 20px 20px 0px;
+}
+
+.bold-para {
+  font-size: small;
+}
+
+.b3-div {
+  position: absolute;
+  left: 60%;
+  top: 20%;
+}
+
+.b3-btn {
+  font-size: small;
+  border-radius: 30px;
+  padding: 19px 29px;
+}
+
+.row {
+  width: 80em;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cardd {
+  margin: 1.5em;
+}
+
+.light {
+  font-size: small;
+}
+.b3-dl{
+  border-radius: 50px;
+ padding: 20px 40px;
+}
+.info-p{
+  font-size: small;
+  color: ;
+}
